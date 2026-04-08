@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dwarkatoppers.in/sitemap.xml
